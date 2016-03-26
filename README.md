@@ -1,4 +1,4 @@
-A simple markdown blog written in Nodejs written in few hours in order to explore the MEAN stack.
+A simple markdown blog in NodeJS written in few hours in order to explore the MEAN stack.
 
 ## Copyright and License
 
